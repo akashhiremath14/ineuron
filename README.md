@@ -53,13 +53,13 @@ Architecture
 
 ScreenShots :
 
-
+<img width="1680" alt="Screenshot 2022-06-26 at 10 39 18 AM" src="https://user-images.githubusercontent.com/55096718/175803898-fec26c73-a870-42ed-9c67-2803134b5b02.png">
 <img width="501" alt="Screenshot 2022-06-26 at 10 42 46 AM" src="https://user-images.githubusercontent.com/55096718/175803881-b519259f-5d6d-4826-b595-0bc9780a467f.png">
 <img width="517" alt="Screenshot 2022-06-26 at 10 41 24 AM" src="https://user-images.githubusercontent.com/55096718/175803892-5eabc5b6-9d3b-4a83-a807-b135d2d507f2.png">
 
 <img width="1680" alt="Screenshot 2022-06-26 at 10 40 56 AM" src="https://user-images.githubusercontent.com/55096718/175803894-36dc02e0-9757-4757-823b-c27059ff3c21.png">
 <img width="502" alt="Screenshot 2022-06-26 at 10 40 08 AM" src="https://user-images.githubusercontent.com/55096718/175803895-b2ddc158-377c-46fd-af4f-f0f99ffe7e07.png">
-<img width="1680" alt="Screenshot 2022-06-26 at 10 39 18 AM" src="https://user-images.githubusercontent.com/55096718/175803898-fec26c73-a870-42ed-9c67-2803134b5b02.png">
+
 
 Future Scope
   * More efficent way of data cleaning
