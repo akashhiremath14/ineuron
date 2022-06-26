@@ -1,5 +1,5 @@
 # ineuron
-hackathon
+Hackathon 3.0
 
 
 Prototype Link  : https://chathackathon.herokuapp.com
