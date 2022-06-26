@@ -48,7 +48,7 @@ Below is an example of how you can instruct your audience on installing and sett
         
        
 Architecture
-<img width="1118" alt="Screenshot 2022-06-26 at 12 46 58 PM" src="https://user-images.githubusercontent.com/55096718/175803859-44e67cdf-8ecb-4820-8845-e9963ee481ab.png">
+<img width="1119" alt="Screenshot 2022-06-26 at 1 01 42 PM" src="https://user-images.githubusercontent.com/55096718/175804265-cbf945c0-da5e-4b5b-a7be-1ed65177e5a9.png">
 
 
 ScreenShots :
