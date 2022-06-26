@@ -2,7 +2,7 @@
 hackathon
 
 
-Demo Link  : https://chathackathon.herokuapp.com
+Prototype Link  : https://chathackathon.herokuapp.com
 
 Table of Contents
 ---------------------
